@@ -142,14 +142,16 @@ sudo ./build_firmware_modify PSG1218
 - https://www.jianshu.com/p/cb51fb0fb2ac
 - https://www.jianshu.com/p/6b8403cdea46
 
-==== 以下为 Yonsm 追加 ====
+***
+
+### Yonsm 追加 ###
 
 * 克隆源码
 ```shell
 git clone --depth=1 git@github.com:Yonsm/Padavan.git /opt/rt-n56u
 ```
 
-* 准备工具链：同原作者
+* 准备工具链：同 hanwckf
 
 * 编译源码
 ```shell
